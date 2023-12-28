@@ -13,17 +13,17 @@ referente aos campeonatos brasileiros enntre 2012 a 2023.
 Informações Obtidas
 
 <div class="container">
-  <img src="campeoes.png" title="Lista de times campeões e respectivos anos do título" width="320" height="205">
+  <img src="campeoes.png" caption="Lista de times campeões e respectivos anos do título" width="320" height="205">
 </div>
 
 
 <div class="container">
-<img src="TABELAS.png" title="Tabelas com todos os dados segmentado pelo ano" width="320" height="205">
+<img src="tabelas.png" caption="Tabelas com todos os dados segmentado pelo ano" width="320" height="205">
 </div>
 
 
 <div class="container">
-<img src="classificacao.png" title="Desempenho dos clubes entre os anos de 2012 a 2023" width="320" height="205">
+<img src="classificacao.png" caption="Desempenho dos clubes entre os anos de 2012 a 2023" width="320" height="205">
 </div>
 
 
