@@ -4,13 +4,13 @@ Projeto exibe dados de raspagem obtidos no site da Confederação Brasileira de 
 referente aos campeonatos brasileiros enntre 2012 a 2023.
 
 
-📋 Pré-requisitos
+📋 <H2>Pré-requisitos</H2>
 
 - Instalação Python
 - Instalar arquivo requirements.txt
 
 
-Informações Obtidas
+<H2>Informações Obtidas</H2>
 
 <div class="container">
   <h4>Lista de times campeões e respectivos anos do título</h4>
@@ -35,15 +35,15 @@ Informações Obtidas
 </div>
 
 
-✒️ Autores
+✒️ <H2>Autores</H2>
 
 Douglas Ribeiro da Silva
 
-🔩 Considerações 
+🔩 <H2>Considerações</H2> 
 
 Demonstrar a versatilidade da linguagem Python na obtenção e exibição de dados através de Web Scraping 
 
-🎁 Expressões de gratidão
+🎁 <H2>Expressões de gratidão</H2>
 
 Obrigado por visualizar o projeto!
 
