@@ -14,8 +14,8 @@ Informações Obtidas
 
 <div class="container">
 
-    - Lista de times campeões e respectivos anos do título
-      <img src="campeoes.png" width="320" height="205">
+- Lista de times campeões e respectivos anos do título
+  <img src="campeoes.png" width="320" height="205">
 </div>
 
 
