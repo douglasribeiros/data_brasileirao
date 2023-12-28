@@ -18,7 +18,7 @@ Informações Obtidas
 
 
 <div class="container">
-<img src="tabelas.png" caption="Tabelas com todos os dados segmentado pelo ano" width="320" height="205">
+<img src="tabelas.PNG" caption="Tabelas com todos os dados segmentado pelo ano" width="320" height="205">
 </div>
 
 
