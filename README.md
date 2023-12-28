@@ -13,9 +13,7 @@ referente aos campeonatos brasileiros enntre 2012 a 2023.
 Informações Obtidas
 
 <div class="container">
-
-- Lista de times campeões e respectivos anos do título
-  <img src="campeoes.png" width="320" height="205">
+  <img src="campeoes.png" title="Lista de times campeões e respectivos anos do título" width="320" height="205">
 </div>
 
 
