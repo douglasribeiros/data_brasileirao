@@ -14,6 +14,7 @@ Informações Obtidas
 
 <div class="container">
   <img src="campeoes.png" caption="Lista de times campeões e respectivos anos do título" width="320" height="205">
+  <td>Lista de times campeões e respectivos anos do título/td>
 </div>
 
 
@@ -26,6 +27,9 @@ Informações Obtidas
 <img src="classificacao.png" caption="Desempenho dos clubes entre os anos de 2012 a 2023" width="320" height="205">
 </div>
 
+<div class="container">
+<img src="artilharia.png" caption="Artilharia entre os anos de 2012 a 2023" width="320" height="205">
+</div>
 
 
 
