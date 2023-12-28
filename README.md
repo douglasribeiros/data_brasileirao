@@ -18,20 +18,20 @@ Informações Obtidas
 </div>
 
 
-<div class="container">
+<div class="container1">
   <h4>Tabelas com todos os dados segmentado pelo ano</h4>
   <img src="tabelas.PNG" caption="Tabelas com todos os dados segmentado pelo ano" width="320" height="205">
 </div>
 
 
-<div class="container">
+<div class="container2">
   <h4>Desempenho dos clubes entre os anos de 2012 a 2023</h4>
   <img src="classificacao.png" caption="Desempenho dos clubes entre os anos de 2012 a 2023" width="320" height="205">
 </div>
 
-<div class="container">
+<div class="container3">
   <h4>Artilharia entre os anos de 2012 a 2023</h4>
-  <img src="artilharia.png" caption="Artilharia entre os anos de 2012 a 2023" width="320" height="205">
+  <img src="artilharia.png" caption="Artilharia entre os anos de 2012 a 2023" width="320" height="250">
 </div>
 
 
